@@ -6,6 +6,8 @@ from sanic.response import json
 import pandas
 import torch
 
+# 此处是pycharm连接Github的私有个人令牌
+# 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
 
 
 '''
