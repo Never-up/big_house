@@ -21,4 +21,5 @@ import torch
 if __name__ == "__main__":
     print('你想去堆雪人吗')
     print('我不想去堆雪人，你知道吗')
+    print('你看一下你自己的行为举止')
 
